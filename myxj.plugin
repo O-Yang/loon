@@ -1,9 +1,14 @@
-#!name=myxj
-#!desc=myxj
-#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1068.png
-
+#!name=美颜相机会员
+#!desc=美颜相机+解锁VIP。
+#!author=O_Yang[https://github.com/O-Yang/loon/blob/main/README.md]
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeituMYXJ.png
+#!openUrl=https://apps.apple.com/app/id592331499
+#!tag=解锁VIP
+#!loon_version=3.2.4(787)
+#!homepage=https://github.com/O-Yang/loon/blob/main/README.md
+#!date=2024-12-12 00:00:00
 [Script]
-http-response ^https:\/\/api\.meiyan\.com\/vip\/user_info\.json script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/myxj.js, requires-body=true, timeout=60, tag=myxj
+http-response ^https:\/\/api\.meiyan\.com\/vip\/user_info\.json script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/myxj.js, requires-body=true, timeout=60, tag=myxj
 
 [MITM]
 hostname = api.meiyan.com
