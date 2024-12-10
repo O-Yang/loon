@@ -1,0 +1,9 @@
+#!name=myxj
+#!desc=myxj
+#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1068.png
+
+[Script]
+http-response ^https:\/\/api\.meiyan\.com\/vip\/user_info\.json script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/myxj.js, requires-body=true, timeout=60, tag=myxj
+
+[MITM]
+hostname = api.meiyan.com
