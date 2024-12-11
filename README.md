@@ -17,7 +17,7 @@
 > https://github.com/luestr/ProxyResource
 >
 
-#### 👋 sooyaaabo大佬库地址
+#### 👋 sooyaaabo恩秀大佬库地址
 
 > https://github.com/sooyaaabo/Loon
 >
