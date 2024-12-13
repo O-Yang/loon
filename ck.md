@@ -9,15 +9,15 @@
 ------
 #### luestr可莉
 > [!TIP]
-> [配置地址](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+> [插件地址](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
 ------
 #### sooyaaabo恩秀
 > [!TIP]
-> [配置地址](https://github.com/sooyaaabo/Loon?tab=readme-ov-file#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+> [插件地址](https://github.com/sooyaaabo/Loon?tab=readme-ov-file#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
 ------
 #### fmz200奶思(⸝⸝•‧̫•⸝⸝)
 > [!TIP]
-> [配置地址](https://github.com/fmz200/wool_scripts?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-loon%E9%85%8D%E7%BD%AE)
+> [插件地址](https://github.com/fmz200/wool_scripts?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-loon%E9%85%8D%E7%BD%AE)
 ------
 #### Cats-Team
 > [!TIP]
@@ -25,13 +25,13 @@
 ------
 #### XX
 > [!TIP]
-> 配置地址
+> 插件地址
 ------
 #### XX
 > [!TIP]
-> 配置地址
+> 插件地址
 ------
 #### XX
 > [!TIP]
-> 配置地址
+> 插件地址
 ------
