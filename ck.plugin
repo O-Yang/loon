@@ -1,17 +1,9 @@
-#!name = 插件仓库
-#!desc = 解除TestFlight区域限制，以解决安装或更新TestFlight内App时, 提示“APP不可用”问题。
-#!openUrl=https://apps.apple.com/app/id592331499
-
-#!homepage=https://github.com/O-Yang/loon/blob/main/README.md
+#!name=美颜相机会员
+#!desc=美颜相机+解锁VIP。
 #!author=O_Yang[https://github.com/O-Yang/loon/blob/main/README.md]
-#!loon_version = 任何版本
-#!system=iOS, iPadOS
-#!icon= https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App/TestFlight-01.png
-#!date = 2024-11-28 12:00
-#############################################
-# "空" 
-#############################################
-
-[Script]
-
-[MitM]
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeituMYXJ.png
+#!openUrl=https://apps.apple.com/app/id592331499
+#!tag=解锁VIP
+#!loon_version=3.2.4(787)
+#!homepage=https://github.com/O-Yang/loon/blob/main/README.md
+#!date=2024-12-12 00:00:00
