@@ -6,7 +6,8 @@
 #!author=O_Yang[https://github.com/O-Yang/loon/blob/main/README.md]
 #!loon_version = 任何版本
 #!system=iOS, iPadOS
-
+#!icon= https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App/TestFlight-01.png
+#!date = 2024-11-28 12:00
 #############################################
 # "空" 
 #############################################
