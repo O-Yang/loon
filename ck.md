@@ -1,6 +1,7 @@
 仓库地址
 ------
-> [!TIP] 111 [Loon 仓库合集网站](https://loon-plugin.vercel.app/)
+> [!TIP] 
+> [Loon 仓库合集网站](https://loon-plugin.vercel.app/)
 
 > [!TIP]
 > [yFamilyfamily/插件直装网站](https://whatshub.top/loon)
@@ -24,3 +25,15 @@
 > [!TIP] >shezhi 
 > 插件地址
 
+
+
+
+
+
+
+
+
+
+## 💹 访问量统计
+
+![Visitor Count](https://profile-counter.glitch.me/fmz200/count.svg)
