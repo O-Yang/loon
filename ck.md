@@ -1,6 +1,6 @@
 仓库地址
 ------
-> [!TIP]  ces 
+> [!TIP] 
 > [Loon 仓库合集网站](https://loon-plugin.vercel.app/)
 
 > [!TIP]
@@ -22,7 +22,7 @@
 > [Cats-Team/去广告规则集](https://github.com/Cats-Team/AdRules)
 
 
-> [!TIP] >shezhi 
+> [!TIP] 
 > 插件地址
 
 
