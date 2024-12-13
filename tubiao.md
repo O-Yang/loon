@@ -3,7 +3,7 @@
 - https://github.com/Orz-3/mini/blob/master/README.md
 - https://github.com/Toperlock/Quantumult
 >
->
+>>>>>>>
 
 
 - [Qure Color (All)](https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor-All.json)
