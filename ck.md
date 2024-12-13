@@ -2,9 +2,9 @@
 ------
 > [!TIP]
 > [Loon 仓库合集](https://loon-plugin.vercel.app/)
-#### luestr可莉
+
 > [!TIP]
-> [插件地址](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+> [luestr可莉](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
 ------
 #### sooyaaabo恩秀
 > [!TIP]
