@@ -23,9 +23,9 @@
 > [!TIP]
 > [去广告规则集](https://github.com/Cats-Team/AdRules)
 ------
-#### XX
+#### yFamilyfamily
 > [!TIP]
-> 插件地址
+> [插件直装地址](https://whatshub.top/loon)
 ------
 #### XX
 > [!TIP]
