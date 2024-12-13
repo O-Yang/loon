@@ -21,6 +21,6 @@
 > [Cats-Team/去广告规则集](https://github.com/Cats-Team/AdRules)
 
 
-> [!TIP]
+> [!TIP] shezhi 
 > 插件地址
 
