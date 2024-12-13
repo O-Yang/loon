@@ -27,9 +27,9 @@
 > [!TIP]
 > [插件直装地址](https://whatshub.top/loon)
 ------
-#### XX
+#### ddgksf2013Cuttlefish(墨魚手記)
 > [!TIP]
-> 插件地址
+> [插件地址](https://github.com/ddgksf2013/ddgksf2013)
 ------
 #### XX
 > [!TIP]
