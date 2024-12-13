@@ -5,7 +5,7 @@
 ------
 #### Loon 仓库合集
 > [!TIP]
-> [配置地址](https://loon-plugin.vercel.app/)
+> [Loon 插件仓库](https://loon-plugin.vercel.app/)
 ------
 #### luestr可莉
 > [!TIP]
