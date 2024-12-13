@@ -19,6 +19,10 @@
 > [!TIP]
 > [插件地址](https://github.com/fmz200/wool_scripts?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-loon%E9%85%8D%E7%BD%AE)
 ------
+#### ddgksf2013Cuttlefish(墨魚手記)
+> [!TIP]
+> [插件地址](https://github.com/ddgksf2013/ddgksf2013)
+------
 #### Cats-Team
 > [!TIP]
 > [去广告规则集](https://github.com/Cats-Team/AdRules)
@@ -26,10 +30,6 @@
 #### yFamilyfamily
 > [!TIP]
 > [插件直装地址](https://whatshub.top/loon)
-------
-#### ddgksf2013Cuttlefish(墨魚手記)
-> [!TIP]
-> [插件地址](https://github.com/ddgksf2013/ddgksf2013)
 ------
 #### XX
 > [!TIP]
