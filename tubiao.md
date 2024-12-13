@@ -1,7 +1,8 @@
 ## QuantumultX 图标库
 原仓库地址
 https://github.com/Orz-3/mini/blob/master/README.md
-https://github.com/Toperlock/Quantumult
+>
+>https://github.com/Toperlock/Quantumult
 
 
 
