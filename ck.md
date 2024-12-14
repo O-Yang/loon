@@ -8,7 +8,9 @@
 > [yFamilyfamily/插件直装网站](https://whatshub.top/loon)
 
 > [!TIP]
-> [luestr可莉](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+> [luestr可莉_插件列表](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+> 
+> [luestr可莉_分流规则目录](https://github.com/luestr/ShuntRules)
 
 > [!TIP]
 > [sooyaaabo恩秀](https://github.com/sooyaaabo/Loon?tab=readme-ov-file#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
