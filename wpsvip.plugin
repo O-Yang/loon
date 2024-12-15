@@ -17,9 +17,9 @@
 
 http-response ^https?:\/\/.*?account\.wps\.(com|cn)(:\d+)?\/api\/users\/\w+\/overview$ script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsvip.js, requires-body=true, timeout=10, tag=WPS会员
 
-http-response ^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips requires-body=1,script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsdk.js
+http-response ^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips requires-body=1,script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsdk.js, tag=稻壳会员
 
-http-request ^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) requires-body=0,script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsdk.js
+http-request ^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) requires-body=0,script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsdk.js, tag=稻壳会员
 
 [MITM]
 
