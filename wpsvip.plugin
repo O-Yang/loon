@@ -1,0 +1,27 @@
+#!name=WPS解锁VIP
+#!desc=VIP+稻壳会员。
+#!author=O_Yang[https://github.com/O-Yang]
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wps.png
+#!openUrl=https://apps.apple.com/app/id599852710
+#!tag=
+#!loon_version=3.2.4(787)
+#!homepage=https://github.com/O-Yang/loon
+#!date=2024-12-12 00:00:00
+
+
+
+#!name=WPS会员
+
+
+[Script]
+
+http-response ^https?:\/\/.*?account\.wps\.(com|cn)(:\d+)?\/api\/users\/\w+\/overview$ script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsvip.js, requires-body=true, timeout=10, tag=WPS会员
+
+http-response ^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips requires-body=1,script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsdk.js
+
+http-request ^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) requires-body=0,script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsdk.js
+
+[MITM]
+
+hostname = *.docer.wps.cn,vipapi.wps.cn,account.wps.cn,*account.wps.com
+
