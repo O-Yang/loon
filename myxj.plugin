@@ -8,7 +8,7 @@
 #!homepage=https://github.com/O-Yang/loon
 #!date=2024-12-12 00:00:00
 [Script]
-http-response ^https:\/\/api\.meiyan\.com\/vip\/user_info\.json script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/myxj.js, requires-body=true, timeout=60, tag=myxj
+http-response ^https:\/\/api\.meiyan\.com\/vip\/user_info\.json script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/myxj.js, requires-body=true, timeout=60, tag=myxj
 
 [MITM]
 hostname = api.meiyan.com
