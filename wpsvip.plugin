@@ -8,11 +8,6 @@
 #!homepage=https://github.com/O-Yang/loon
 #!date=2024-12-12 00:00:00
 
-
-
-#!name=WPS会员
-
-
 [Script]
 
 http-response ^https?:\/\/.*?account\.wps\.(com|cn)(:\d+)?\/api\/users\/\w+\/overview$ script-path=https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/wpsvip.js, requires-body=true, timeout=10, tag=WPS会员
