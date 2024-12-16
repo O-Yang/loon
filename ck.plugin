@@ -9,6 +9,8 @@
 #!date=2024-12-12 00:00:00
 
 [Rule]
+
+DOMAIN,代理指向选择REGECT屏蔽系统更新⬆,PROXY
 DOMAIN,mesu.apple.com,PROXY
 DOMAIN,gdmf.apple.com,PROXY
 DOMAIN,updates-http.cdn-apple.com,PROXY
