@@ -6,7 +6,7 @@
 
 > 
 
-#### 👋 [插件仓库](https://github.com/O-Yang/loon/blob/main/Ack.md)
+#### 👋 [插件仓库](https://github.com/O-Yang/loon/blob/main/A.md)
 
 > 
 
