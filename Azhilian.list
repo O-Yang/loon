@@ -3,8 +3,7 @@
 DOMAIN,legionr9000p,DIRECT
 # NAME: 不忘初心网址不走VPN
 DOMAIN,www.pc528.net,DIRECT
-#轻松签屏蔽每日提醒
-DOMAIN,esign.yyyue.xyz,REJECT
+
 
 
 
