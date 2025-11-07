@@ -1,0 +1,62 @@
+[Adblock Plus 3.0]
+! Title: O-Yang
+! Expires: 12 hours
+! Version: 
+! Last Modified: 2025年
+! Homepage: https://github.com/O-Yang
+
+!====================================================================115规则!
+!-主页耳机图标
+115.com##.ibc-music
+!-超级年费限时购
+115.com###act-enter
+115.com##DIV[class="feature-float"]
+!-净网2121 严打不良信息
+115.com##DIV[class="ceiling-link-temp"]
+!-屏蔽新建文件夹
+115.com##DIV[class="top-file-newdir"]
+
+!====================================================================JAV!
+!-主页上横幅🔥 官方App...新網址獲得方法
+javdb.com##nav[class="sub-header"]
+!-主页下横幅官方App...
+javdb.com##nav[class="app-desktop-banner"]
+!-磁力链上广告
+javdb.com##div[class="moj-content"]
+javfan.one##.__isboostOverContent
+
+!====================================================================百度地图!
+map.baidu.com##div[id="newuilogo"]
+map.baidu.com##div[class=" BMap_cpyCtrl BMap_noprint anchorBL"]
+map.baidu.com##div[class="message-panel-open"]
+
+!====================================================================PornHub!
+cn.pornhub.com###countryRedirectMessage
+cn.pornhub.com##.abAlertInner
+cn.pornhub.com##.v6ygv.clearfix.adsContainer
+cn.pornhub.com##.ublbv.clearfix.adsContainer
+
+!====================================================================直播!
+huya.com##.game--3vukE-yU-mjmYLSnLDfHYm
+
+
+
+!========================================================================本地拦截==================================================================================
+pc.115.com##DIV[class="list-url-suggest"]
+pc.115.com##DIV[class="headline"]
+pc.115.com##DIV[class="feature-float"]
+javbus.com##DIV[class="bcpic2"]
+amap.com##DIV[class="amap-copyright"]
+class="backgroundImg
+cn.pornhub.com###customSkin
+cn.pornhub.com##.backgroundImg
+
+!====================================================================115自定义过滤==================================================================================
+v.anxia.com###js_common_mini-dialog
+v.anxia.com##.feature-float
+||act.115.com/assets/2022/1111/portal/jxs_web_home_banner.png
+
+!====================================================================谷歌自定义过滤==================================================================================
+
+
+!  ——————————END —————————— !
