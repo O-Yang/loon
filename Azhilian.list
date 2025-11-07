@@ -4,8 +4,8 @@ DOMAIN,legionr9000p,DIRECT
 # NAME: 不忘初心网址不走VPN
 DOMAIN,www.pc528.net
 # NAME: 密码管理器
-https://bitwarden.com
+bitwarden.com
 # NAME: 微软
-https://www.microsoft.com
+www.microsoft.com
 # NAME: 苹果天气
 weather-data.apple.com
