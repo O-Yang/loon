@@ -5,6 +5,7 @@ DOMAIN,legionr9000p,DIRECT
 DOMAIN,www.pc528.net
 # NAME: 密码管理器
 bitwarden.com
+api.bitwarden.com
 # NAME: 微软
 microsoft.com
 edge.microsoft.com
