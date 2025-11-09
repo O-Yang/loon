@@ -60,6 +60,7 @@
 
 
 >》主图标
+>MINI原地址https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png
 ------
 >https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/tubiao/Apple.png
 >
