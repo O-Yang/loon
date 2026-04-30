@@ -8,12 +8,15 @@
 > [yFamilyfamily/插件直装网站](https://whatshub.top/loon)
 
 > [!TIP]
-> [luestr可莉_插件列表](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+> [luestr可莉的插件中心](https://hub.kelee.one/)
+> [luestr可莉分流规则目录](https://github.com/luestr/ShuntRules)
+> [luestr可莉仓库](https://github.com/luestr/ProxyResource/blob/main/README.md#%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
 > 
-> [luestr可莉_分流规则目录](https://github.com/luestr/ShuntRules)
+
 
 > [!TIP]
-> [sooyaaabo恩秀](https://github.com/sooyaaabo)
+> [sooyaaabo恩秀的插件中心](https://loonlab.103516.xyz/Plugin/)
+> [sooyaaabo恩秀仓库](https://github.com/sooyaaabo)
 > 
 
 > [!TIP]
