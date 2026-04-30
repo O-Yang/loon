@@ -25,13 +25,13 @@
 > [fmz200奶思Loon插件](https://github.com/fmz200/wool_scripts/tree/main/Loon)
 
 > [!TIP]
+> [Moli-X莫离Loon插件](https://github.com/Moli-X/Tool/tree/X/Loon)
+
+> [!TIP]
 > [ddgksf2013墨魚手記(QuantumultX)](https://github.com/ddgksf2013/ddgksf2013)
 
 > [!TIP]
 > [Cats-Team/去广告规则集](https://github.com/Cats-Team/AdRules)
-
-> [!TIP] 
-> · https://github.com/Moli-X/Tool/tree/X/Loon
 
 > [!TIP] 
 > ·https://github.com/VirgilClyne/GetSomeFries
