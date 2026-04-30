@@ -47,4 +47,3 @@
 
 ## 💹 访问量统计
 
-![Visitor Count](https://profile-counter.glitch.me/O-Yang/count.svg)
