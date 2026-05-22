@@ -34,10 +34,10 @@
 > [Cats-Team/去广告规则集](https://github.com/Cats-Team/AdRules)
 
 > [!TIP] 
-> ·https://github.com/VirgilClyne/GetSomeFries
+> [毒奶去广告](https://github.com/limbopro)
 
 > [!TIP] 
-> ·
+> ·https://github.com/VirgilClyne/GetSomeFries
 
 > [!TIP] 
 > ·
