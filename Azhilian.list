@@ -1,6 +1,7 @@
 # 自用更改的地址
 #笔记本局域网共享地址
-DOMAIN,legionr9000p,DIRECT
+#DOMAIN,legionr9000p,DIRECT
+#不好使，使用Filza LEGIONR9000P.local 这个方式好使。
 # NAME: 不忘初心网址不走VPN
 DOMAIN,www.pc528.net
 # NAME: 密码管理器
