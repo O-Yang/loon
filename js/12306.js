@@ -11,7 +11,7 @@
 
 [rewrite_local]
 
-^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/12306.js
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://raw.githubusercontent.com/O-Yang/loon/refs/heads/main/js/12306.js
 
 [mitm]
 
