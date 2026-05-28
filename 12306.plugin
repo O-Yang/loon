@@ -1,19 +1,16 @@
-#!name=铁路12306净化 (国内加速版)
-#!desc=移除铁路12306开屏广告、应用内横幅、推荐位及红点提示，优化核心购票体验。已替换国内加速节点。
-#!author=ddgksf2013
-#!homepage=https://github.com/ddgksf2013/Scripts
-#!icon=https://githubusercontent.com
-#!date=2026-05-28
+#!name=12306
+#!desc=移除铁路12306开屏广告、应用内横幅、推荐位及红点提示，优化核心购票体验。
+#!author=O_Yang[https://github.com/O-Yang]
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/refs/heads/main/App_icon/120px/12306.png
+#!openUrl=https://apps.apple.com/app/id564818797
+#!tag=
+#!loon_version=3.2.4(787)
+#!homepage=https://github.com/O-Yang/loon
+#!date=2026-05-28 00:00:00
 
-[Rule]
-# 拦截开屏广告域名解析
-DOMAIN, ad.12306.cn, REJECT
 
 [Script]
-# 拦截并净化应用内弹窗、横幅和广告数据（已转换至国内 CDN 加速链接）
-http-response ^https?:\/\/wzg\.12306\.cn\/otn\/gonggao\/(windowShow|listBanner) script-path=https://jsdelivr.net, requires-body=true, tag=12306_广告净化
+http-request ^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList script-path=https://github.com/ddgksf2013/Scripts/raw/master/12306.js, requires-body=true, timeout=60, tag=12306
 
-http-response ^https?:\/\/mobile\.12306\.cn\/otsmobile\/gonggao\/(windowShow|listBanner) script-path=https://jsdelivr.net, requires-body=true, tag=12306_弹窗净化
-
-[Mitm]
-hostname = wzg.12306.cn, mobile.12306.cn, ad.12306.cn
+[MITM]
+hostname = ad.12306.cn
