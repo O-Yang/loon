@@ -12,8 +12,8 @@
 | [莫离 Moli-X](https://github.com/Moli-X) | [⚙️ 插件](https://github.com/Moli-X/Tool/tree/X/Loon) |  |
 | [墨魚 Cuttlefish ddgksf2013](https://github.com/ddgksf2013) | [⚙️ 插件](https://github.com/ddgksf2013/ddgksf2013) | 需要用Loon转换 | Quantumult X |
 | [Cats-Team](https://github.com/Cats-Team) | [📝 分流](https://github.com/Cats-Team/AdRules) | 去广告规则集 |  |
-| [毒奶博主 limbopro](https://github.com/limbopro) | [📝 分流](https://github.com/limbopro/Adblock4limbo) | 去广告规则集 |
-|  |  |  |
+| [毒奶博主 limbopro](https://github.com/limbopro) | [ℹ️ 规则](https://github.com/limbopro/Adblock4limbo) | 去广告合集 |
+| [脆薯饼 VirgilClyne · she/her](https://github.com/VirgilClyne) | [🧰 BoxJs](https://github.com/VirgilClyne/GetSomeFries) | 整点薯条 |
 
 |  |  |  |
 |  |  |  |
