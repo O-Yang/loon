@@ -3,8 +3,8 @@
 
 | 作者 | 说明 | 备注 | 其他 |
 | :--- | :--- | :--- | :--- |
-| 未知 | [⚙️插件合集网站](https://loon-plugin.vercel.app/)| 插件网站 | 
-| [yfamily](https://github.com/deezertidal) | [⚙️插件合集网站](https://yfamilys.com/loon) | [🌐主网址](https://yfamilys.com/) |  
+| 未知 | [⚙️插件](https://loon-plugin.vercel.app/)| 插件网站 | 
+| [yfamily](https://github.com/deezertidal) | [⚙️插件](https://yfamilys.com/loon) | [🌐主站](https://yfamilys.com/) |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [⚙️ 插件](https://hub.kelee.one/) | [📝 分流](https://github.com/luestr/ShuntRules) |  | 
 | [恩秀sooyaaabo](https://github.com/sooyaaabo) | [⚙️ 插件](https://loonlab.103516.xyz/Plugin/) | [🛠️Loon配置](https://github.com/sooyaaabo/LoonLab) | [Icon图标](https://github.com/sooyaaabo/IconLibrary) |
 | [奶思(⸝⸝•‧̫•⸝⸝) fmz200](https://github.com/fmz200) | [⚙️ 插件](https://github.com/fmz200/wool_scripts/tree/main/Loon) |  |
