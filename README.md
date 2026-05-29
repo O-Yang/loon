@@ -1,13 +1,13 @@
 
 ## Loon 插件转换自留仓库
 
-| 作者 | 说明 | 备注 |
-| :--- | :--- | :--- |
+| 作者 | 说明 | 备注 | 其他 |
+| :--- | :--- | :--- | :--- |
 | 未知 | [⚙️插件合集网站](https://loon-plugin.vercel.app/)| 相关功能插件脚本 | 
 | [yfamily](https://github.com/deezertidal) | [⚙️插件合集网站](https://yfamilys.com/) | [Loon插件](https://yfamilys.com/loon) |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [📝 分流](https://github.com/luestr/ShuntRules) |  |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [⚙️ 插件](https://hub.kelee.one/) |  |  
-| [恩秀sooyaaabo](https://github.com/sooyaaabo) | [⚙️ 插件](https://loonlab.103516.xyz/Plugin/) |  |  
+| [恩秀sooyaaabo](https://github.com/sooyaaabo) | [⚙️ 插件](https://loonlab.103516.xyz/Plugin/) | [LoonLab](https://github.com/sooyaaabo/LoonLab) | [Icon](https://github.com/sooyaaabo/IconLibrary) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
