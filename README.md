@@ -10,7 +10,7 @@
 | [恩秀sooyaaabo](https://github.com/sooyaaabo) | [⚙️ 插件](https://loonlab.103516.xyz/Plugin/) | [LoonLab](https://github.com/sooyaaabo/LoonLab) | [Icon](https://github.com/sooyaaabo/IconLibrary) |
 | [奶思(⸝⸝•‧̫•⸝⸝)fmz200](https://github.com/fmz200) | [⚙️ 插件](https://github.com/fmz200/wool_scripts/tree/main/Loon) |  |
 | [莫离Moli-X](https://github.com/Moli-X) | [⚙️ 插件](https://github.com/Moli-X/Tool/tree/X/Loon) |  |
-|  |  |  |
+| [墨魚 Cuttlefish ddgksf2013](https://github.com/ddgksf2013) | [⚙️ 插件](https://github.com/ddgksf2013/ddgksf2013) | 需要用Loon转换 | Quantumult X |
 |  |  |  |
 |  |  |  |
 |  |  |  |
