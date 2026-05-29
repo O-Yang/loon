@@ -4,7 +4,7 @@
 | 作者 | 地址 | 说明 | 备注 |
 | :--- | :--- | :--- | :--- |
 | 未知 | [仓库合集](https://loon-plugin.vercel.app/)| 🌐相关功能插件脚本 | |
-| [yfamily](https://github.com/deezertidal) | 🌐相关功能插件脚本 | 🌐相关功能插件脚本 |  |
+| [yfamily](https://github.com/deezertidal) | [[插件中心](https://yfamilys.com/)] | 🌐相关功能插件脚本 |  |
 
 | [yfamilys插件中心](https://whatshub.top/loon) | 📁 仓库 | 存放图标资源文件 | |
 | [可莉插件中心](https://hub.kelee.one/) | ℹ️ 文档 | 图表相关的说明文档 | |
