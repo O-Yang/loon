@@ -2,10 +2,10 @@
 #!desc=地址⬇
 #!author=O_Yang[https://github.com/O-Yang]
 #!icon=https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/urltest.png
-#!openUrl=https://github.com/O-Yang/loon/blob/main/A.md#i
+#!openUrl=https://github.com/O-Yang/loon/blob/main/README.md#i
 #!tag=
 #!loon_version=任何版本
-#!homepage=https://github.com/O-Yang/loon/blob/main/A.md#i
+#!homepage=https://github.com/O-Yang/loon
 #!date=2024-12-12 00:00:00
 
 [Rule]
@@ -15,4 +15,9 @@ DOMAIN,mesu.apple.com,PROXY
 DOMAIN,gdmf.apple.com,PROXY
 DOMAIN,updates-http.cdn-apple.com,PROXY
 DOMAIN,xp.apple.com,PROXY
+
+
+
+
+
 
