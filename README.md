@@ -3,9 +3,9 @@
 
 | 名称 | 作者 | 说明 | 备注 |
 | :--- | :--- | :--- | :--- |
-| [仓库合集网站](./js) | 📁 🌐文件夹 | 存放 JavaScript 核心脚本（如 12306 等相关脚本） | |
-| [`tubiao/`](./tubiao) | 📁 文件夹 | 存放图标资源文件 | |
-| [`Atubiao.md`](./Atubiao.md) | ℹ️ 文档 | 图表相关的说明文档 | |
+| [仓库合集网站](https://loon-plugin.vercel.app/) | 🌐未知 | 相关功能插件脚本 | |
+| [yfamilys插件中心](https://whatshub.top/loon) | 📁 文件夹 | 存放图标资源文件 | |
+| [可莉插件中心](https://hub.kelee.one/) | ℹ️ 文档 | 图表相关的说明文档 | |
 | [`README.md`](./README.md) | ℹ️ 文档 | 项目主页说明文件（即本文件） | |
 | [`Adblock-Plus.txt`](./Adblock-Plus.txt) | 📝 规则 | Adblock Plus 广告拦截规则文本 | |
 | [`12306.plugin`](./12306.plugin) | ⚙️ 插件 | 12306 相关功能插件 | |
