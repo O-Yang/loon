@@ -7,7 +7,21 @@
 | [yfamily](https://github.com/deezertidal) | [⚙️插件合集网站](https://yfamilys.com/) | [Loon插件](https://yfamilys.com/loon) |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [📝 分流](https://github.com/luestr/ShuntRules) |  |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [⚙️ 插件](https://hub.kelee.one/) |  |  
-|  |  |  |  
+| [恩秀sooyaaabo](https://github.com/sooyaaabo) | [⚙️ 插件](https://loonlab.103516.xyz/Plugin/) |  |  
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
 
 | [yfamilys插件中心](https://whatshub.top/loon) | 📁 仓库 | 存放图标资源文件 | |
 | [可莉插件中心](https://hub.kelee.one/) | ℹ️ 文档 | 图表相关的说明文档 | |
