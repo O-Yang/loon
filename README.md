@@ -3,8 +3,8 @@
 
 | 作者 | 说明 | 备注 |
 | :--- | :--- | :--- |
-| 未知 | [仓库合集](https://loon-plugin.vercel.app/)| 🌐相关功能插件脚本 | 
-| [yfamily](https://github.com/deezertidal) | [合集网站](https://yfamilys.com/) | [Loon插件](https://yfamilys.com/loon) |  
+| 未知 | [⚙️插件合集网站](https://loon-plugin.vercel.app/)| 相关功能插件脚本 | 
+| [yfamily](https://github.com/deezertidal) | [⚙️插件合集网站](https://yfamilys.com/) | [Loon插件](https://yfamilys.com/loon) |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [📝 分流](https://github.com/luestr/ShuntRules) |  |  
 | [可莉 luestr](https://github.com/luestr/ProxyResource/tree/main) | [⚙️ 插件](https://hub.kelee.one/) |  |  
 |  |  |  |  
