@@ -1,6 +1,6 @@
 
 ## Loon
-
+添加https://ghproxy.net/
 | 作者 | 说明 | 备注 | 其他 |
 | :--- | :--- | :--- | :--- |
 | 未知 | [⚙️插件](https://loon-plugin.vercel.app/)| 插件网站 | 
